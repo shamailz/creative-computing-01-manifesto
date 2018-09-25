@@ -5,6 +5,6 @@ body {
 	background: #e9ffe4; 
 }
 }
-h1, h2,h3 {
-	width: 500px;
+p {
+	font-size: 20px;
 }
