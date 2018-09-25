@@ -1,11 +1,9 @@
 * {
     box-sizing: border-box;
 }
-.index-page { 
+body { 
 	background: #e9ffe4; 
 }
-.typeset-page {
-	background: #fae4ff;
 }
 h1, h2,h3 {
 	width: 500px;
